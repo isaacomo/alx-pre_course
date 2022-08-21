@@ -1,1 +1,1 @@
-i am doing hard things
+I am doing hard things at alx compuse
